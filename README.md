@@ -13,8 +13,8 @@ Este proyecto analiza un conjunto de datos simulados basados en el INEGI, con el
 - Identificar los estados y días con mayor cantidad de accidentes
 
 ## Archivos incluidos
-- Proyecto_Accidentes_INEGI.ipynb (código completo)
-- accidentes_simulados_inegi.csv (dataset de muestra)
+- Proyecto_Accidentes_INEGI.ipynb 
+- accidentes_simulados_inegi.csv 
 
 ## Integrantes
 - Josué Y Jimena
