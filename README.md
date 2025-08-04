@@ -20,4 +20,4 @@ Este proyecto analiza un conjunto de datos simulados basados en el INEGI, con el
 - Josué Y Jimena
 
 ## Conexión MongoDB
-La conexión se realiza mediante `pymongo`. Recuerda reemplazar tu URI antes de ejecutar el notebook.
+La conexión se realiza mediante `pymongo`. 
