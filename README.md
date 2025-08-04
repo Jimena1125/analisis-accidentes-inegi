@@ -17,7 +17,7 @@ Este proyecto analiza un conjunto de datos simulados basados en el INEGI, con el
 - accidentes_simulados_inegi.csv (dataset de muestra)
 
 ## Integrantes
-- Josué y equipo (reemplaza con tus nombres)
+- Josué Y Jimena
 
 ## Conexión MongoDB
 La conexión se realiza mediante `pymongo`. Recuerda reemplazar tu URI antes de ejecutar el notebook.
